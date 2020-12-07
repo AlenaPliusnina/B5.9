@@ -6,4 +6,4 @@ Cкачайте проект и запустите скрипт командой
 
 В консоли выведется время за которое выполняется описанная функция:
 
-![Иллюстрация к проекту](https://github.com/AlenaPliusnina/B5.9/blob/master/screenshoots/func_speed.png)
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/B5.9/blob/master/screenshots/func_speed.png)
